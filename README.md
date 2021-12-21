@@ -1,1 +1,1 @@
-# EECS 6893 Big Data Analytics: Final Project, Fall 2021 - Yelp Help!
+# EECS 6893: Final Project, Fall 2021 - Yelp Help!
