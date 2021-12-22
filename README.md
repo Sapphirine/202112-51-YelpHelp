@@ -5,15 +5,17 @@
 [![Click to watch the presentation](https://yt-embed.herokuapp.com/embed?v=gTD12HftKbg)](https://www.youtube.com/watch?v=gTD12HftKbg) 
 
 </div>
+
 The project consists of three parts.
 - Scrapers (Scrapes data from Yelp.com) 
-- NER model (Model training and inference to get menu items `Pseudo-menus`)
+- NER model (Model training and inference to get menu items - `Pseudo-menus`)
 - Web app (Can be used by consumers to look at the generated menus by entering city and zipcode)
 
-The scraped data is used to generate .
+<br>
 
-    Pseudo-menu: This is not the typical menu that we see in restaurants where they might have their own obscure names for common food items. For example "Eggs can’t be cheese" this is a burger. So our Pseudo-menu will just have one menu item named "burger".
+> Pseudo-menu: This is not the typical menu that we see in restaurants where they might have their own obscure names for common food items. For example "Eggs can’t be cheese" this is a burger. So our Pseudo-menu will just have one menu item named "burger".
 
+<br>
 
 <div align="center">
 
