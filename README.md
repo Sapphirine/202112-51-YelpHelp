@@ -1,5 +1,10 @@
+<div align="center">
+
 # EECS 6893: Final Project, Fall 2021 - Yelp Help!
 
+[![Click to watch the presentation](https://yt-embed.herokuapp.com/embed?v=gTD12HftKbg)](https://www.youtube.com/watch?v=gTD12HftKbg) 
+
+</div>
 The project consists of three parts.
 - Scrapers (Scrapes data from Yelp.com) 
 - NER model (Model training and inference to get menu items `Pseudo-menus`)
@@ -8,6 +13,7 @@ The project consists of three parts.
 The scraped data is used to generate .
 
     Pseudo-menu: This is not the typical menu that we see in restaurants where they might have their own obscure names for common food items. For example "Eggs can’t be cheese" this is a burger. So our Pseudo-menu will just have one menu item named "burger".
+
 
 <div align="center">
 
@@ -163,6 +169,8 @@ After installation, you can start the server and see the results from local host
 $ python yelp_help_api.py
 ```
 Then, open `index.html` file from the `frontend` folder.
+
+![Web app](images/Demo_website.png)
 
 ## Authors
 * Bhavin Dhedhi (bdd2115@columbia.edu)**
