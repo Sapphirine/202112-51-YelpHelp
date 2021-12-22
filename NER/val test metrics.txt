@@ -1,0 +1,193 @@
+loading from drive/My Drive/menuitem_ner_model_epoch_35
+
+Validation metrics:
+P = 95.20
+R = 94.68
+F = 94.94
+
+Test metrics:
+P = 95.12
+R = 94.54
+F = 94.83
+=========================
+loading from drive/My Drive/menuitem_ner_model_epoch_36
+
+Validation metrics:
+P = 94.89
+R = 94.96
+F = 94.92
+
+Test metrics:
+P = 94.79
+R = 94.88
+F = 94.84
+=========================
+loading from drive/My Drive/menuitem_ner_model_epoch_37
+
+Validation metrics:
+P = 95.19
+R = 95.01
+F = 95.10
+
+Test metrics:
+P = 95.14
+R = 94.91
+F = 95.03
+=========================
+loading from drive/My Drive/menuitem_ner_model_epoch_38
+
+Validation metrics:
+P = 94.84
+R = 94.73
+F = 94.78
+
+Test metrics:
+P = 94.77
+R = 94.66
+F = 94.72
+=========================
+loading from drive/My Drive/menuitem_ner_model_epoch_39
+
+Validation metrics:
+P = 94.85
+R = 94.50
+F = 94.67
+
+Test metrics:
+P = 94.76
+R = 94.38
+F = 94.57
+=========================
+loading from drive/My Drive/menuitem_ner_model_epoch_40
+
+Validation metrics:
+P = 95.17
+R = 95.00
+F = 95.09
+
+Test metrics:
+P = 95.08
+R = 94.89
+F = 94.99
+=========================
+loading from drive/My Drive/menuitem_ner_model_epoch_41
+
+Validation metrics:
+P = 94.96
+R = 94.40
+F = 94.68
+
+Test metrics:
+P = 94.94
+R = 94.38
+F = 94.66
+=========================
+loading from drive/My Drive/menuitem_ner_model_epoch_42
+
+Validation metrics:
+P = 95.16
+R = 94.80
+F = 94.98
+=========================
+
+Test metrics:
+P = 95.10
+R = 94.72
+F = 94.91
+=========================
+loading from drive/My Drive/menuitem_ner_model_epoch_43
+
+Validation metrics:
+P = 95.22
+R = 95.02
+F = 95.12
+
+Test metrics:
+P = 95.17
+R = 94.96
+F = 95.06
+=========================
+loading from drive/My Drive/menuitem_ner_model_epoch_44
+
+Validation metrics:
+P = 95.33
+R = 94.56
+F = 94.94
+
+Test metrics:
+P = 95.27
+R = 94.54
+F = 94.90
+=========================
+loading from drive/My Drive/menuitem_ner_model_epoch_45
+
+Validation metrics:
+P = 95.18
+R = 94.82
+F = 95.00
+
+Test metrics:
+P = 95.12
+R = 94.80
+F = 94.96
+=========================
+loading from drive/My Drive/menuitem_ner_model_epoch_46
+
+Validation metrics:
+P = 95.37
+R = 94.98
+F = 95.18
+
+Test metrics:
+P = 95.33
+R = 94.98
+F = 95.16
+=========================
+loading from drive/My Drive/menuitem_ner_model_epoch_47
+
+Validation metrics:
+P = 95.57
+R = 95.11
+F = 95.34
+
+Test metrics:
+P = 95.51
+R = 95.11
+F = 95.31
+=========================
+loading from drive/My Drive/menuitem_ner_model_epoch_48
+
+Validation metrics:
+P = 95.30
+R = 94.73
+F = 95.01
+
+Test metrics:
+P = 95.24
+R = 94.78
+F = 95.01
+=========================
+loading from drive/My Drive/menuitem_ner_model_epoch_49
+
+Validation metrics:
+P = 95.34
+R = 95.14
+F = 95.24
+
+Test metrics:
+P = 95.36
+R = 95.20
+F = 95.28
+=========================
+loading from drive/My Drive/menuitem_ner_model_epoch_50
+
+Validation metrics:
+P = 95.63
+R = 95.09
+F = 95.36
+
+Test metrics:
+P = 95.64
+R = 95.18
+F = 95.41
+=========================
