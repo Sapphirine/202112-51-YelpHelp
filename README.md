@@ -2,7 +2,7 @@
 
 # EECS 6893: Final Project, Fall 2021 - Yelp Help!
 
-[![Click to watch the presentation](https://yt-embed.herokuapp.com/embed?v=gTD12HftKbg)](https://www.youtube.com/watch?v=gTD12HftKbg) 
+[![Click to watch the presentation](https://img.youtube.com/vi/gTD12HftKbg/0.jpg)](https://www.youtube.com/watch?v=gTD12HftKbg) 
 
 </div>
 
